@@ -23,6 +23,6 @@ I'm a Product Manager at Jio Platforms, where I led the launch of a smart energy
 
 Previously: Management Intern at MAQ Software (Azure optimization, Agile delivery) and Staff Consultant at Apps Associates (Oracle ERP, data migrations, QA automation).
 
-**Education**: MBA from IIFT Kolkata | B.Tech in Computer Science from JNTUK
+**Education**: MBA from IIFT | B.Tech in Computer Science from JNTUK
 
 **Certifications**: Google Project Management, AI For Everyone (DeepLearning.AI), Claude Code AI-Assisted Development
